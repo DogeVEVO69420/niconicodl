@@ -39,6 +39,5 @@ Please choose an option:
 2. Set output directory
 3. Exit
 
-Enter your choice (1-3): 1
-Enter the Niconico video URL: https://www.nicovideo.jp/watch/sm12345678
+Enter your choice (1-3):
 ```
