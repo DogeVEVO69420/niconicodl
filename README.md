@@ -7,7 +7,6 @@ A Python script for downloading and re-encoding Niconico videos. This tool allow
 - Download videos from Niconico in the best quality available.
 - Re-encode videos to 1080p, 720p, or 480p.
 - Set a custom output directory for downloaded videos.
-- Handles keyboard interrupts gracefully.
 
 ## Requirements
 
