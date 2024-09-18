@@ -28,7 +28,7 @@ To install the required Python library, run:
 pip install yt-dlp
 ```
 
-### Example
+### The script itself
 
 ```
 Welcome to the Niconico Downloader!
