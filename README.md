@@ -26,3 +26,19 @@ To install the required Python library, run:
 
 ```bash
 pip install yt-dlp
+
+
+# Example
+
+Welcome to the Niconico Downloader!
+This script will automatically download the highest quality available for your chosen option.
+Press Ctrl+X at any time to cancel the current operation and return to the main menu.
+
+Please choose an option:
+1. Download content
+2. Set output directory
+3. Exit
+
+Enter your choice (1-3): 1
+Enter the Niconico video URL: https://www.nicovideo.jp/watch/sm12345678
+Download Process
