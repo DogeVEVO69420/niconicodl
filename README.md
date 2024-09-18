@@ -26,10 +26,11 @@ To install the required Python library, run:
 
 ```bash
 pip install yt-dlp
+```
 
+### Example
 
-# Example
-
+```
 Welcome to the Niconico Downloader!
 This script will automatically download the highest quality available for your chosen option.
 Press Ctrl+X at any time to cancel the current operation and return to the main menu.
