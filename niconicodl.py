@@ -71,6 +71,7 @@ def get_default_download_folder():
 def main():
     try:
         print("Welcome to the Niconico Downloader!")
+        print("Made by https://github.com/theoneandonlyprincesstrunks")
         print("This script will automatically download the highest quality available for your chosen option.")
         print("Press Ctrl+X at any time to cancel the current operation and return to the main menu.")
         
